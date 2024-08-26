@@ -1,1 +1,1 @@
-Aqui encontraras Practicas para python
+Aqui encontraras Practicas para pytho
