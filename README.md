@@ -9,9 +9,10 @@ El repositorio contiene proyectos en los siguientes lenguajes de programación:
 - **C/C++**: Utilizado principalmente para proyectos de Arduino y programación a nivel de hardware.
 - **Python**: Para scripts y proyectos que pueden involucrar análisis de datos, automatización y otros casos de uso.
 - **JavaScript**: Para desarrollo web y scripts de automatización.
-- **Java**:
-- **C#**:
-- **HTML**:
+- **Java**: Para aplicaciones y proyectos en el ecosistema Java.
+- **C#**: Utilizado principalmente para desarrollo en la plataforma .NET.
+- **HTML**: Para la creación de páginas web y aplicaciones web front-end.
+- **SQL**: Para la gestión y consulta de bases de datos, y la práctica de habilidades en administración de bases de datos.
 
 ## Dinámica del Repositorio
 

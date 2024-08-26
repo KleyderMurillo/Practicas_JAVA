@@ -1,0 +1,1 @@
+Aqui encontraras las practicas para JAVA, desde como instalar java y algunas practicas para ayudarte en la programacion, inlcuyendo teoria para entender mejor las practicas 

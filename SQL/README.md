@@ -1,0 +1,1 @@
+Aqui encontraras practicas para sql y tambien el como se va a instalar
