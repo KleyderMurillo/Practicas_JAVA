@@ -1,4 +1,4 @@
-package Persona;
+package Persona2_0;
 
 class Persona {
 

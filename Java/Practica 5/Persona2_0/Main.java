@@ -1,4 +1,4 @@
-package Persona;
+package Persona2_0;
 
 import java.util.Scanner; // importamos la libreria escaner
 

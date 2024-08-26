@@ -1,4 +1,4 @@
-package Doctor;
+package Doctor2_0;
 
 class Doctor {
 

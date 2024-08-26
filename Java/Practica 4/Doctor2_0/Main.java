@@ -1,4 +1,4 @@
-package Doctor; 
+package Doctor2_0; 
 
 import java.util.Scanner; // importamos la libreria escaner
 
